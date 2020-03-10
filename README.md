@@ -1,1 +1,2 @@
-# miracleeye-gmcx03-specifications
+# MiracleEYE - HK-GMCx03-1 Specifications
+
