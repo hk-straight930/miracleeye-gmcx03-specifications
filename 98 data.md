@@ -6,5 +6,5 @@
 <br>
 <div style="text-align: center;">
 
-![](image/outline01.png)
+![](image/data_outline01.png)
 

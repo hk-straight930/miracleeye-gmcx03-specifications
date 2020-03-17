@@ -36,5 +36,5 @@
 </div>
 
 ---
-HK-GMCx03-1 Specification<br>
-ID20030201
+HK-GMCx03-1 Specifications<br>
+ID20031601
