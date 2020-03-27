@@ -37,4 +37,4 @@
 
 ---
 HK-GMCx03-1 Specifications<br>
-ID20031601
+ID20032701
